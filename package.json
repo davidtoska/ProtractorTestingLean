@@ -1,0 +1,15 @@
+{
+  "name": "leantesting",
+  "version": "1.0.0",
+  "description": "protractor test suite for lean.",
+  "main": "conf.js",
+  "dependencies": {
+    "protractor": "^5.1.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "david toska",
+  "license": "ISC"
+}
